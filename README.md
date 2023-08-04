@@ -1,1 +1,1 @@
-# Faktoriel
+kombinasyon
